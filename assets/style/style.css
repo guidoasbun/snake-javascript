@@ -8,6 +8,10 @@ body {
     background: linear-gradient(to right, #fffc00, #ffffff);
 }
 
+.top {
+    margin-top: 150px;
+}
+
 .card-img-top {
     width: 105px;
 }
