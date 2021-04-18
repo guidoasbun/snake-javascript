@@ -1,16 +1,23 @@
+
 body {
-    height: 100vh;
-    width: 100vw;
+    height: 90vh;
+    width: 90vw;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: black;
+    background: linear-gradient(to right, #fffc00, #ffffff);
+}
+
+.card-img-top {
+    width: 105px;
 }
 
 #game-board {
-    background-color: gray;
-    width: 100vmin;
-    height: 100vmin;
+    /* background-color: gray; */
+    background: linear-gradient(to right, #283c86, #45a247);
+    background-size: cover;
+    width: 70vmin;
+    height: 70vmin;
     display: grid;
     grid-template-rows: repeat(21, 1fr);
     grid-template-columns: repeat(21, 1fr);
