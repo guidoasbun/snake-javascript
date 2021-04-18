@@ -1,15 +1,12 @@
-# Simple-Calculator
+# Snake
 
-![Project Image](https://guido-asbun.s3.amazonaws.com/Calculator.png)
-
-> ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/guidoasbun/ambutrack) ![GitHub contributors](https://img.shields.io/github/contributors/guidoasbun/ambutrack)![GitHub](https://img.shields.io/github/license/guidoasbun/ambutrack) ![GitHub last commit](https://img.shields.io/github/last-commit/guidoasbun/Ambutrack)
->
+![Project Image](https://guido-asbun.s3.amazonaws.com/snake.png)
 
 ---
 
 ### Table of Contents
 
-- [Simple-Calculator](#Simple-Calculator)
+- [Simple-Calculator](#Snake)
     - [Table of Contents](#table-of-contents)
     - [Description](#description)
         - [Technologies](#technologies)
@@ -22,8 +19,7 @@
 ---
 
 ## Description
-A simple calculator that calculates basic arithmetic. Multiplication, Division,
-Addition, Subtraction.
+A clone of the popular game Snake
 #### Technologies
 
 - Vanilla JavaScript
@@ -33,7 +29,7 @@ Addition, Subtraction.
 - Bootstrap 5
 - Github Pages
 
-[Back To The Top](#Simple-Calculator)
+[Back To The Top](#Snake)
 
 ---
 
@@ -45,8 +41,8 @@ Addition, Subtraction.
 
 ## How To Use
 
-1. Go to the website https://guidoasbun.github.io/calculator-vanillaJS/
-2. Do some maths!!!
+1. Go to the website https://guidoasbun.github.io/snake-javascript/
+2. use the up, down, left, right keys to move 
 
 
 ## License
@@ -73,7 +69,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#Simple-Calculator)
+[Back To The Top](#https://guidoasbun.github.io/snake-javascript/)
 
 ---
 
@@ -81,4 +77,4 @@ SOFTWARE.
 
 - Website - [Guido Asbun](https://www.guido-asbun.com)
 
-[Back To The Top](#Simple-Calculator)
+[Back To The Top](#Snake)
